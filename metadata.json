@@ -1,0 +1,12 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "uri": "https://raw.githubusercontent.com/bark-community/test-token/main/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "8kuQ2gNaDHtVVYM2t8vqujQsrynVE6i2MqwssYhREmVq",
+      "share": 500
+    }
+  ]
+}
